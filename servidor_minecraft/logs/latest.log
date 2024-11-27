@@ -1,626 +1,521 @@
-[00:00:12] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 480 | 192 ], underground: true
-[00:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [Acquire Hardware]
-[00:02:36] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ 624 | 336 ], underground: true
-[00:03:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [Suit Up]
-[00:03:50] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[00:03:50] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [48, 25] in dimension 0 (overworld) while populating chunk [47, 25], causing cascading worldgen lag.
-[00:03:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:03:56] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[00:03:56] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [48, 23] in dimension 0 (overworld) while populating chunk [48, 24], causing cascading worldgen lag.
-[00:03:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:04:01] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[00:04:01] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [48, 27] in dimension 0 (overworld) while populating chunk [48, 26], causing cascading worldgen lag.
-[00:04:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Suit Up]
-[00:04:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[00:04:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [50, 27] in dimension 0 (overworld) while populating chunk [50, 26], causing cascading worldgen lag.
-[00:04:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:04:16] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 800 | 432 ], underground: true
-[00:04:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[00:04:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [51, 27] in dimension 0 (overworld) while populating chunk [50, 26], causing cascading worldgen lag.
-[00:04:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:04:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[00:04:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [52, 27] in dimension 0 (overworld) while populating chunk [51, 27], causing cascading worldgen lag.
-[00:04:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:04:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[00:04:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [51, 26] in dimension 0 (overworld) while populating chunk [51, 27], causing cascading worldgen lag.
-[00:04:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:04:16] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[00:04:16] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [52, 26] in dimension 0 (overworld) while populating chunk [51, 27], causing cascading worldgen lag.
-[00:04:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:04:57] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[00:04:57] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [55, 27] in dimension 0 (overworld) while populating chunk [54, 27], causing cascading worldgen lag.
-[00:04:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:05:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[00:05:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [59, 34] in dimension 0 (overworld) while populating chunk [58, 34], causing cascading worldgen lag.
-[00:05:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:05:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[00:05:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [58, 35] in dimension 0 (overworld) while populating chunk [58, 34], causing cascading worldgen lag.
-[00:05:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:05:48] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 976 | 528 ], underground: true
-[00:06:39] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 1136 | 656 ], underground: true
-[00:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope tried to swim in lava
-[00:22:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[00:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope was slain by Skeleton
-[00:23:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[00:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [Isn't It Iron Pick]
-[00:41:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: matilope moved wrongly!
-[00:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [Hot Stuff]
-[00:49:59] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=137, y=28, z=54}
-[00:49:59] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=137, y=28, z=54}
-[00:52:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [Diamonds!]
-[00:53:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 was slain by Zombie
-[01:05:24] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=235, y=22, z=217}
-[01:05:24] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=235, y=22, z=217}
-[01:06:13] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=196, y=31, z=189}
-[01:06:13] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=196, y=31, z=189}
-[01:13:21] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=135, y=28, z=42}
-[01:13:21] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=135, y=28, z=42}
-[01:14:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Internal Exception: io.netty.channel.unix.Errors$NativeIoException: syscall:read(..) failed: Connection reset by peer
-[01:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
-[01:31:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:38:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:44:55] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[01:44:55] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,extendedrenderer@v1.0,mousetweaks@2.10.1,baubles@1.5.2,dungeonmobs@5.8.6,configmod@v1.0,battletowers@1.6.5,jei@4.16.1.1013,reccomplex@1.4.8.6,hammertime@2.2.0,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,ic2@2.8.222-ex112,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,galacticraftcore@4.0.2.280,FML@8.0.99.99,weather2@1.12.1-2.6.12,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,mekanismtools@1.12.2-9.8.3.390,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,bibliotheca@1.3.6-1.12.2,galacticraftplanets@4.0.2.280,micdoodlecore@,msic@1.0,forge@14.23.5.2860,exoticbirds@1.0,infernalmobs@1.7.6,mobends@1.2.1,simple_hammers@0.0.1-BACKPORT
-[01:44:55] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
-[01:44:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:44:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:57598] logged in with entity id 136209 at (225.00884869578897, 76.0, 73.98361475810218)
-[01:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
-[01:44:56] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/136209, l='world', x=225.01, y=76.00, z=73.98] connected. Sending ping
-[01:44:56] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
-[01:51:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[01:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[01:52:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[01:52:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Acquire Hardware]
-[01:53:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [Sweet dreams]
-[01:53:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Sweet dreams]
-[01:54:57] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=289, y=16, z=-1}
-[01:54:57] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=289, y=16, z=-1}
-[01:55:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[01:56:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing StoneMazeSmall
-[01:56:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [9, -15] in dimension 0 (overworld) while populating chunk [9, -14], causing cascading worldgen lag.
-[01:56:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:56:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating StoneMazeSmall
-[01:56:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 0] in dimension 0 (overworld) while populating chunk [9, -14], causing cascading worldgen lag.
-[01:56:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:56:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating StoneMazeSmall
-[01:56:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [9, -14], causing cascading worldgen lag.
-[01:56:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:56:31] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [18, -21] in dimension 0 (overworld) while populating chunk [19, -20], causing cascading worldgen lag.
-[01:56:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:56:31] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 304 | -320 ], underground: true
-[01:57:17] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [7, -27] in dimension 0 (overworld) while populating chunk [8, -26], causing cascading worldgen lag.
-[01:57:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:57:17] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 128 | -416 ], underground: false
-[01:57:35] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [26, -31] in dimension 0 (overworld) while populating chunk [27, -30], causing cascading worldgen lag.
-[01:57:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:57:35] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 432 | -480 ], underground: false
-[01:58:03] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [15, -37] in dimension 0 (overworld) while populating chunk [16, -36], causing cascading worldgen lag.
-[01:58:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:03] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 256 | -576 ], underground: false
-[01:58:12] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [1, -38] in dimension 0 (overworld) while populating chunk [2, -37], causing cascading worldgen lag.
-[01:58:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:12] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 32 | -592 ], underground: false
-[01:58:41] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[01:58:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-11, -43] in dimension 0 (overworld) while populating chunk [-11, -42], causing cascading worldgen lag.
-[01:58:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:41] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-12, -43] in dimension 0 (overworld) while populating chunk [-11, -42], causing cascading worldgen lag.
-[01:58:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:41] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[01:58:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, -43] in dimension 0 (overworld) while populating chunk [-12, -43], causing cascading worldgen lag.
-[01:58:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:41] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[01:58:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, -44] in dimension 0 (overworld) while populating chunk [-13, -43], causing cascading worldgen lag.
-[01:58:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:41] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[01:58:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, -44] in dimension 0 (overworld) while populating chunk [-13, -43], causing cascading worldgen lag.
-[01:58:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:41] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -176 | -672 ], underground: false
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, -39] in dimension 0 (overworld) while populating chunk [-12, -39], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, -40] in dimension 0 (overworld) while populating chunk [-13, -39], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-12, -41] in dimension 0 (overworld) while populating chunk [-13, -39], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, -40] in dimension 0 (overworld) while populating chunk [-13, -39], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-14, -40] in dimension 0 (overworld) while populating chunk [-13, -40], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, -41] in dimension 0 (overworld) while populating chunk [-13, -40], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-13, -42] in dimension 0 (overworld) while populating chunk [-13, -40], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-14, -41] in dimension 0 (overworld) while populating chunk [-13, -40], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating OakTreeBig
-[01:58:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-14, -41], causing cascading worldgen lag.
-[01:58:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:47] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[01:58:47] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-15, -42] in dimension 0 (overworld) while populating chunk [-14, -42], causing cascading worldgen lag.
-[01:58:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:49] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[01:58:49] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-15, -41] in dimension 0 (overworld) while populating chunk [-15, -43], causing cascading worldgen lag.
-[01:58:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:49] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[01:58:49] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-15, -42] in dimension 0 (overworld) while populating chunk [-15, -43], causing cascading worldgen lag.
-[01:58:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:58:53] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[01:58:53] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-17, -39] in dimension 0 (overworld) while populating chunk [-17, -40], causing cascading worldgen lag.
-[01:58:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:00] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing PyramidMazePagoda
-[01:59:00] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-21, -23] in dimension 0 (overworld) while populating chunk [-20, -23], causing cascading worldgen lag.
-[01:59:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:00] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing PyramidMazePagoda
-[01:59:00] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-19, -22] in dimension 0 (overworld) while populating chunk [-20, -23], causing cascading worldgen lag.
-[01:59:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:00] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing PyramidMazePagoda
-[01:59:00] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-20, -22] in dimension 0 (overworld) while populating chunk [-20, -23], causing cascading worldgen lag.
-[01:59:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:00] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing PyramidMazePagoda
-[01:59:00] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-21, -22] in dimension 0 (overworld) while populating chunk [-20, -23], causing cascading worldgen lag.
-[01:59:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:00] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing PyramidMazePagoda
-[01:59:00] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-21, -24] in dimension 0 (overworld) while populating chunk [-20, -23], causing cascading worldgen lag.
-[01:59:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -8.295484651322909,0.0,6.2479309462669335
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -8.616004374590602,0.0,6.487063288462082
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -8.93656382860624,0.0,6.726159618415295
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -9.257159040294056,0.0,6.965223537351562
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -9.57778643388599,0.0,7.204258286373374
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -9.89844279119086,0.0,7.443266782472847
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -10.219125215836698,0.0,7.682251650942817
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -10.539831101088765,0.0,7.921215254546951
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -10.860558100885896,0.0,8.160159719772196
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -11.181304103773073,0.0,8.399086960456884
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -11.502067209440838,0.0,8.637998699055629
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -11.822845707610725,0.0,8.876896485777252
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -12.143638059032156,0.0,9.115781715809817
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -12.464442878379629,0.0,9.354655644822515
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -12.78525891886028,0.0,9.59351940291765
-[01:59:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat (vehicle of matilope) moved too quickly! -13.106121648161803,0.0,9.832324751398914
-[01:59:02] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2123ms behind, skipping 42 tick(s)
-[01:59:07] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-23, -36] in dimension 0 (overworld) while populating chunk [-23, -35], causing cascading worldgen lag.
-[01:59:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:07] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-24, -36] in dimension 0 (overworld) while populating chunk [-23, -35], causing cascading worldgen lag.
-[01:59:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:07] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -368 | -560 ], underground: true
-[01:59:07] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-24, -23] in dimension 0 (overworld) while populating chunk [-23, -22], causing cascading worldgen lag.
-[01:59:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:59:07] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -368 | -352 ], underground: true
-[02:01:09] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-35, -30] in dimension 0 (overworld) while populating chunk [-34, -29], causing cascading worldgen lag.
-[02:01:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:01:09] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ -544 | -464 ], underground: false
-[02:01:10] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-35, -17] in dimension 0 (overworld) while populating chunk [-34, -16], causing cascading worldgen lag.
-[02:01:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:01:10] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -544 | -256 ], underground: true
-[02:02:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:07:22] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-445, y=14, z=-313}
-[02:07:22] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-445, y=14, z=-313}
-[02:07:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[02:07:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[02:07:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 fell from a high place
-[02:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Hot Stuff]
-[02:08:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Diamonds!]
-[02:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[02:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[02:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:12:23] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -320 | -160 ], underground: false
-[02:12:48] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:12:48] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-40, -29] in dimension 0 (overworld) while populating chunk [-39, -29], causing cascading worldgen lag.
-[02:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:12:48] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:12:48] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-39, -30] in dimension 0 (overworld) while populating chunk [-39, -29], causing cascading worldgen lag.
-[02:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:12:48] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:12:48] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-40, -30] in dimension 0 (overworld) while populating chunk [-39, -30], causing cascading worldgen lag.
-[02:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:12:48] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:12:48] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-39, -31] in dimension 0 (overworld) while populating chunk [-39, -30], causing cascading worldgen lag.
-[02:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:12:48] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:12:48] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-40, -31] in dimension 0 (overworld) while populating chunk [-39, -30], causing cascading worldgen lag.
-[02:12:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:15:30] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-427, y=15, z=-208}
-[02:15:30] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-427, y=15, z=-208}
-[02:15:40] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:15:40] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-40, -22] in dimension 0 (overworld) while populating chunk [-40, -21], causing cascading worldgen lag.
-[02:15:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:15:49] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating OakTreeBig
-[02:15:49] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-42, -31], causing cascading worldgen lag.
-[02:15:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:16:25] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-44, -39] in dimension 0 (overworld) while populating chunk [-43, -38], causing cascading worldgen lag.
-[02:16:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:16:25] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -688 | -608 ], underground: true
-[02:16:30] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating StonePlantMound2
-[02:16:30] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-36, -40] in dimension 0 (overworld) while populating chunk [-36, -39], causing cascading worldgen lag.
-[02:16:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:16:32] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating BrickHenge
-[02:16:32] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-44, -26], causing cascading worldgen lag.
-[02:16:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:17:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 2249a73c-5d1d-4ddc-86d7-8ea684464fa0
-[02:18:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:witch that already exists with UUID 0447df3a-d71b-42a3-8f05-135f1e435252
-[02:18:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Timed out
-[02:18:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
-[02:19:10] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[02:19:10] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,extendedrenderer@v1.0,mousetweaks@2.10.1,baubles@1.5.2,dungeonmobs@5.8.6,configmod@v1.0,battletowers@1.6.5,jei@4.16.1.1013,reccomplex@1.4.8.6,hammertime@2.2.0,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,ic2@2.8.222-ex112,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,galacticraftcore@4.0.2.280,FML@8.0.99.99,weather2@1.12.1-2.6.12,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,mekanismtools@1.12.2-9.8.3.390,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,bibliotheca@1.3.6-1.12.2,galacticraftplanets@4.0.2.280,micdoodlecore@,msic@1.0,forge@14.23.5.2860,exoticbirds@1.0,infernalmobs@1.7.6,mobends@1.2.1,simple_hammers@0.0.1-BACKPORT
-[02:19:10] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
-[02:19:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:19:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:58713] logged in with entity id 202642 at (-543.311873950744, 110.0, -455.9027068712579)
-[02:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
-[02:19:11] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/202642, l='world', x=-543.31, y=110.00, z=-455.90] connected. Sending ping
-[02:19:11] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
-[02:19:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:22:12] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-470, y=20, z=-347}
-[02:22:12] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-470, y=20, z=-347}
-[02:23:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:26:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:27:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[02:31:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Timed out
-[02:31:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
-[02:31:53] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[02:31:53] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,extendedrenderer@v1.0,mousetweaks@2.10.1,baubles@1.5.2,dungeonmobs@5.8.6,configmod@v1.0,battletowers@1.6.5,jei@4.16.1.1013,reccomplex@1.4.8.6,hammertime@2.2.0,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,ic2@2.8.222-ex112,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,galacticraftcore@4.0.2.280,FML@8.0.99.99,weather2@1.12.1-2.6.12,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,mekanismtools@1.12.2-9.8.3.390,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,bibliotheca@1.3.6-1.12.2,galacticraftplanets@4.0.2.280,micdoodlecore@,msic@1.0,forge@14.23.5.2860,exoticbirds@1.0,infernalmobs@1.7.6,mobends@1.2.1,simple_hammers@0.0.1-BACKPORT
-[02:31:53] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[02:31:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[02:31:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:59559] logged in with entity id 220955 at (-403.20978364858956, 131.0, -377.66231293285585)
-[02:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
-[02:31:55] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/220955, l='world', x=-403.21, y=131.00, z=-377.66] connected. Sending ping
-[02:31:55] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
-[02:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:34:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:36:03] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing MeteorSite
-[02:36:03] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-46, -27] in dimension 0 (overworld) while populating chunk [-45, -27], causing cascading worldgen lag.
-[02:36:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:36:03] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-46, -24] in dimension 0 (overworld) while populating chunk [-45, -23], causing cascading worldgen lag.
-[02:36:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:36:03] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -720 | -368 ], underground: true
-[02:36:25] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-643, y=27, z=-404}
-[02:36:25] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-643, y=27, z=-404}
-[02:36:25] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-642, y=27, z=-404}
-[02:36:25] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-642, y=27, z=-404}
-[02:37:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing UndergroundCultChamber
-[02:37:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-51, -32] in dimension 0 (overworld) while populating chunk [-50, -32], causing cascading worldgen lag.
-[02:37:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:37:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing UndergroundCultChamber
-[02:37:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-50, -33] in dimension 0 (overworld) while populating chunk [-50, -32], causing cascading worldgen lag.
-[02:37:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:37:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing UndergroundCultChamber
-[02:37:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-51, -33] in dimension 0 (overworld) while populating chunk [-50, -32], causing cascading worldgen lag.
-[02:37:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:37:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating UndergroundCultChamber
-[02:37:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-50, -32], causing cascading worldgen lag.
-[02:37:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:37:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing UndergroundCultChamber
-[02:37:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 1] in dimension 0 (overworld) while populating chunk [-50, -32], causing cascading worldgen lag.
-[02:37:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:37:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing UndergroundCultChamber
-[02:37:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 0] in dimension 0 (overworld) while populating chunk [-50, -32], causing cascading worldgen lag.
-[02:37:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:37:52] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing UndergroundCultChamber
-[02:37:52] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 1] in dimension 0 (overworld) while populating chunk [-50, -32], causing cascading worldgen lag.
-[02:37:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[02:39:19] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:39:19] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-38, -8] in dimension 0 (overworld) while populating chunk [-39, -8], causing cascading worldgen lag.
-[02:39:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:19] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating OakTreeBig
-[02:39:19] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-32, -8], causing cascading worldgen lag.
-[02:39:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:39:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-44, -8] in dimension 0 (overworld) while populating chunk [-43, -8], causing cascading worldgen lag.
-[02:39:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:43] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-44, -9] in dimension 0 (overworld) while populating chunk [-44, -8], causing cascading worldgen lag.
-[02:39:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:45] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:39:45] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-42, -7] in dimension 0 (overworld) while populating chunk [-43, -7], causing cascading worldgen lag.
-[02:39:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:45] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -688 | -112 ], underground: false
-[02:39:45] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[02:39:45] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-39, -7] in dimension 0 (overworld) while populating chunk [-40, -7], causing cascading worldgen lag.
-[02:39:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:45] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:39:45] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-38, -6] in dimension 0 (overworld) while populating chunk [-38, -7], causing cascading worldgen lag.
-[02:39:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:45] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:39:45] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-39, -6] in dimension 0 (overworld) while populating chunk [-38, -7], causing cascading worldgen lag.
-[02:39:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:49] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:39:49] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-30, -5] in dimension 0 (overworld) while populating chunk [-30, -6], causing cascading worldgen lag.
-[02:39:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:58] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -496 | -64 ], underground: true
-[02:39:59] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[02:39:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-28, -4] in dimension 0 (overworld) while populating chunk [-29, -4], causing cascading worldgen lag.
-[02:39:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:39:59] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:39:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-47, -5] in dimension 0 (overworld) while populating chunk [-46, -5], causing cascading worldgen lag.
-[02:39:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:04] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:40:04] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-41, -2] in dimension 0 (overworld) while populating chunk [-41, -3], causing cascading worldgen lag.
-[02:40:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:04] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:40:04] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-34, -2] in dimension 0 (overworld) while populating chunk [-34, -3], causing cascading worldgen lag.
-[02:40:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:04] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:40:04] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-35, -2] in dimension 0 (overworld) while populating chunk [-34, -3], causing cascading worldgen lag.
-[02:40:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:04] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[02:40:04] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-36, -2] in dimension 0 (overworld) while populating chunk [-35, -2], causing cascading worldgen lag.
-[02:40:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-31, -3] in dimension 0 (overworld) while populating chunk [-32, -3], causing cascading worldgen lag.
-[02:40:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-30, -3] in dimension 0 (overworld) while populating chunk [-31, -3], causing cascading worldgen lag.
-[02:40:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-30, -2] in dimension 0 (overworld) while populating chunk [-30, -3], causing cascading worldgen lag.
-[02:40:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-29, -2] in dimension 0 (overworld) while populating chunk [-30, -3], causing cascading worldgen lag.
-[02:40:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-29, -3] in dimension 0 (overworld) while populating chunk [-30, -3], causing cascading worldgen lag.
-[02:40:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-31, -2] in dimension 0 (overworld) while populating chunk [-32, -3], causing cascading worldgen lag.
-[02:40:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-32, -2] in dimension 0 (overworld) while populating chunk [-32, -3], causing cascading worldgen lag.
-[02:40:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:05] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:05] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-33, -2] in dimension 0 (overworld) while populating chunk [-32, -3], causing cascading worldgen lag.
-[02:40:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:09] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:40:09] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-39, -2] in dimension 0 (overworld) while populating chunk [-40, -2], causing cascading worldgen lag.
-[02:40:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:09] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating OakTreeBig
-[02:40:09] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-39, -2], causing cascading worldgen lag.
-[02:40:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:10] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[02:40:10] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-43, -2] in dimension 0 (overworld) while populating chunk [-42, -2], causing cascading worldgen lag.
-[02:40:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:14] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-52, -10] in dimension 0 (overworld) while populating chunk [-51, -10], causing cascading worldgen lag.
-[02:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:14] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[02:40:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-52, -11] in dimension 0 (overworld) while populating chunk [-51, -10], causing cascading worldgen lag.
-[02:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:27] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-54, -14] in dimension 0 (overworld) while populating chunk [-54, -13], causing cascading worldgen lag.
-[02:40:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:27] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-55, -14] in dimension 0 (overworld) while populating chunk [-54, -13], causing cascading worldgen lag.
-[02:40:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:27] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -864 | -208 ], underground: true
-[02:40:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: matilope moved too quickly! -0.4626786829677485,-1.1661092609382138,-10.114706884646637
-[02:40:58] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-58, -28] in dimension 0 (overworld) while populating chunk [-57, -27], causing cascading worldgen lag.
-[02:40:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:58] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -912 | -432 ], underground: false
-[02:40:58] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing OakTreeBig
-[02:40:58] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-57, -25], causing cascading worldgen lag.
-[02:40:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:59] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SmallOutpost
-[02:40:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-58, -16] in dimension 0 (overworld) while populating chunk [-57, -15], causing cascading worldgen lag.
-[02:40:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:40:59] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SmallOutpost
-[02:40:59] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-58, -15] in dimension 0 (overworld) while populating chunk [-57, -15], causing cascading worldgen lag.
-[02:40:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:41:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: matilope moved too quickly! -5.990452796875388,1.252203340253729,-8.060689876730976
-[02:42:40] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-734, y=31, z=-335}
-[02:42:40] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-734, y=31, z=-335}
-[02:42:42] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-61, -40] in dimension 0 (overworld) while populating chunk [-60, -39], causing cascading worldgen lag.
-[02:42:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:42:42] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -960 | -624 ], underground: false
-[02:43:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[02:48:53] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-754, y=29, z=-336}
-[02:48:53] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-754, y=29, z=-336}
-[02:48:53] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-755, y=29, z=-337}
-[02:48:53] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-755, y=29, z=-337}
-[02:48:53] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-755, y=29, z=-336}
-[02:48:53] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-755, y=29, z=-336}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-752, y=29, z=-336}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-752, y=29, z=-336}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-753, y=29, z=-340}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-753, y=29, z=-340}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-753, y=29, z=-341}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-753, y=29, z=-341}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-752, y=29, z=-340}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-752, y=29, z=-340}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-752, y=29, z=-341}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-752, y=29, z=-341}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-751, y=29, z=-341}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-751, y=29, z=-341}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-751, y=29, z=-342}
-[02:48:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-751, y=29, z=-342}
-[02:49:20] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-52, -49] in dimension 0 (overworld) while populating chunk [-51, -48], causing cascading worldgen lag.
-[02:49:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:49:20] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -816 | -768 ], underground: true
-[02:50:03] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-39, -53] in dimension 0 (overworld) while populating chunk [-38, -52], causing cascading worldgen lag.
-[02:50:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:50:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-37, -53] in dimension 0 (overworld) while populating chunk [-37, -52], causing cascading worldgen lag.
-[02:50:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:50:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-38, -53] in dimension 0 (overworld) while populating chunk [-37, -52], causing cascading worldgen lag.
-[02:50:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:50:15] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -592 | -816 ], underground: false
-[02:51:28] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SmallAbandonedOutpost
-[02:51:28] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-42, -58] in dimension 0 (overworld) while populating chunk [-43, -58], causing cascading worldgen lag.
-[02:51:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:51:28] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SmallAbandonedOutpost
-[02:51:28] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-43, -59] in dimension 0 (overworld) while populating chunk [-43, -58], causing cascading worldgen lag.
-[02:51:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:51:28] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing WhiteWillowLarge
-[02:51:28] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-44, -58] in dimension 0 (overworld) while populating chunk [-43, -59], causing cascading worldgen lag.
-[02:51:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:51:28] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing WhiteWillowLarge
-[02:51:28] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-44, -59] in dimension 0 (overworld) while populating chunk [-43, -59], causing cascading worldgen lag.
-[02:51:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:51:28] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SmallAbandonedOutpost
-[02:51:28] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-42, -59] in dimension 0 (overworld) while populating chunk [-43, -58], causing cascading worldgen lag.
-[02:51:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:51:44] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-47, -60] in dimension 0 (overworld) while populating chunk [-46, -60], causing cascading worldgen lag.
-[02:51:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:51:44] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-47, -61] in dimension 0 (overworld) while populating chunk [-46, -60], causing cascading worldgen lag.
-[02:51:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:51:44] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -736 | -960 ], underground: false
-[02:53:54] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-32, -63] in dimension 0 (overworld) while populating chunk [-31, -62], causing cascading worldgen lag.
-[02:53:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[02:53:54] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -496 | -992 ], underground: true
-[02:54:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[03:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Isn't It Iron Pick]
-[03:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 was blown up by Creeper
-[03:02:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[03:06:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[03:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[03:07:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[03:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 fell from a high place
-[03:08:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[03:08:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[03:10:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[03:12:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[03:16:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[03:16:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[03:18:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [Ice Bucket Challenge]
-[03:19:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[03:20:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
-[03:22:17] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:22:17] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-24, -2] in dimension 0 (overworld) while populating chunk [-23, -2], causing cascading worldgen lag.
-[03:22:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:22:32] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:22:32] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-26, -1] in dimension 0 (overworld) while populating chunk [-25, -1], causing cascading worldgen lag.
-[03:22:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:22:44] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[03:22:44] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-26, 1] in dimension 0 (overworld) while populating chunk [-27, 1], causing cascading worldgen lag.
-[03:22:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:22:49] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing WhiteWillowLarge
-[03:22:49] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-29, -1] in dimension 0 (overworld) while populating chunk [-28, -1], causing cascading worldgen lag.
-[03:22:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:22:49] [Server thread/WARN] [FML]: Exotic Birds loaded a new chunk [-29, -2] in dimension 0 (overworld) while populating chunk [-29, -1], causing cascading worldgen lag.
-[03:22:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:23:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Disconnected
-[03:23:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
-[03:24:07] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[03:24:07] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,extendedrenderer@v1.0,mousetweaks@2.10.1,baubles@1.5.2,dungeonmobs@5.8.6,configmod@v1.0,battletowers@1.6.5,jei@4.16.1.1013,reccomplex@1.4.8.6,hammertime@2.2.0,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,ic2@2.8.222-ex112,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,galacticraftcore@4.0.2.280,FML@8.0.99.99,weather2@1.12.1-2.6.12,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,mekanismtools@1.12.2-9.8.3.390,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,bibliotheca@1.3.6-1.12.2,galacticraftplanets@4.0.2.280,micdoodlecore@,msic@1.0,forge@14.23.5.2860,exoticbirds@1.0,infernalmobs@1.7.6,mobends@1.2.1,simple_hammers@0.0.1-BACKPORT
-[03:24:07] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[03:24:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[03:24:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:60132] logged in with entity id 326520 at (-397.6880565091753, 61.65128772479128, -369.84972077736705)
-[03:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
-[03:24:08] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/326520, l='world', x=-397.69, y=61.65, z=-369.85] connected. Sending ping
-[03:24:08] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
-[03:27:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
-[03:27:31] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-67, -19] in dimension 0 (overworld) while populating chunk [-66, -18], causing cascading worldgen lag.
-[03:27:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:27:31] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -1056 | -288 ], underground: true
-[03:28:13] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-773, y=19, z=-451}
-[03:28:13] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-773, y=19, z=-451}
-[03:29:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
-[03:30:04] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-79, -18] in dimension 0 (overworld) while populating chunk [-79, -17], causing cascading worldgen lag.
-[03:30:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:30:04] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-80, -18] in dimension 0 (overworld) while populating chunk [-79, -17], causing cascading worldgen lag.
-[03:30:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:30:04] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -1264 | -272 ], underground: true
-[03:30:54] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:30:54] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-85, -18] in dimension 0 (overworld) while populating chunk [-85, -17], causing cascading worldgen lag.
-[03:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:30:54] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:30:54] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-86, -18] in dimension 0 (overworld) while populating chunk [-85, -17], causing cascading worldgen lag.
-[03:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:30:54] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:30:54] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-86, -17] in dimension 0 (overworld) while populating chunk [-85, -17], causing cascading worldgen lag.
-[03:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:31:17] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:31:17] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-88, -17] in dimension 0 (overworld) while populating chunk [-88, -16], causing cascading worldgen lag.
-[03:31:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:31:25] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[03:31:25] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-89, -17] in dimension 0 (overworld) while populating chunk [-89, -16], causing cascading worldgen lag.
-[03:31:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:31:41] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[03:31:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-92, -15] in dimension 0 (overworld) while populating chunk [-91, -15], causing cascading worldgen lag.
-[03:31:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:31:41] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-93, -16] in dimension 0 (overworld) while populating chunk [-92, -15], causing cascading worldgen lag.
-[03:31:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:31:41] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[03:31:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-91, -16] in dimension 0 (overworld) while populating chunk [-93, -16], causing cascading worldgen lag.
-[03:31:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:31:41] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
-[03:31:41] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-92, -16] in dimension 0 (overworld) while populating chunk [-93, -16], causing cascading worldgen lag.
-[03:31:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:31:41] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -1472 | -240 ], underground: false
-[03:31:52] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing WhiteWillowLarge
-[03:31:52] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-92, -13] in dimension 0 (overworld) while populating chunk [-91, -13], causing cascading worldgen lag.
-[03:31:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:22] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[03:32:22] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-96, -16] in dimension 0 (overworld) while populating chunk [-96, -15], causing cascading worldgen lag.
-[03:32:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:39] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[03:32:39] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-98, -16] in dimension 0 (overworld) while populating chunk [-98, -15], causing cascading worldgen lag.
-[03:32:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:39] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[03:32:39] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-98, -17] in dimension 0 (overworld) while populating chunk [-98, -16], causing cascading worldgen lag.
-[03:32:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:45] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:32:45] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-100, -14] in dimension 0 (overworld) while populating chunk [-99, -14], causing cascading worldgen lag.
-[03:32:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:45] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:32:45] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-99, -15] in dimension 0 (overworld) while populating chunk [-100, -14], causing cascading worldgen lag.
-[03:32:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:45] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:32:45] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-100, -15] in dimension 0 (overworld) while populating chunk [-100, -14], causing cascading worldgen lag.
-[03:32:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:50] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
-[03:32:50] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-100, -12] in dimension 0 (overworld) while populating chunk [-100, -13], causing cascading worldgen lag.
-[03:32:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:56] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:32:56] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-99, -16] in dimension 0 (overworld) while populating chunk [-101, -15], causing cascading worldgen lag.
-[03:32:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:56] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:32:56] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-100, -16] in dimension 0 (overworld) while populating chunk [-101, -15], causing cascading worldgen lag.
-[03:32:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:32:56] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:32:56] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-101, -16] in dimension 0 (overworld) while populating chunk [-101, -15], causing cascading worldgen lag.
-[03:32:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:33:14] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-106, -14] in dimension 0 (overworld) while populating chunk [-105, -13], causing cascading worldgen lag.
-[03:33:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:33:14] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -1680 | -208 ], underground: false
-[03:33:14] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:33:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-103, -15] in dimension 0 (overworld) while populating chunk [-104, -14], causing cascading worldgen lag.
-[03:33:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:33:14] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:33:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-104, -15] in dimension 0 (overworld) while populating chunk [-104, -14], causing cascading worldgen lag.
-[03:33:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:33:14] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
-[03:33:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-105, -15] in dimension 0 (overworld) while populating chunk [-104, -14], causing cascading worldgen lag.
-[03:33:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:33:14] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating OakTreeBig
-[03:33:14] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-105, -15], causing cascading worldgen lag.
-[03:33:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:34:01] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-118, -11] in dimension 0 (overworld) while populating chunk [-117, -10], causing cascading worldgen lag.
-[03:34:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[03:34:01] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -1872 | -160 ], underground: false
-[03:36:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: matilope moved too quickly! -2.4841791782781684,1.2247629905309907,-9.777679611702183
-[03:36:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jefferalex30> a
-[03:36:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <matilope> a
-[03:47:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jefferalex30 lost connection: Disconnected
-[03:47:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 left the game
-[03:47:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Disconnected
-[03:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
-[03:48:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:48:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:48:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[03:48:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[03:48:06] [Server thread/INFO] [FML]: Unloading dimension 0
-[03:48:06] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
-[03:48:06] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
-[03:48:06] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
-[03:48:06] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
-[03:48:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:48:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:48:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[04:07:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[04:07:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[04:07:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[04:07:29] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[04:07:29] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[04:07:29] [main/INFO] [FML]: Searching /workspaces/fantastic-rotary-phone/servidor_minecraft/./mods for mods
+[04:07:29] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.64+dev.151.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:07:29] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:07:29] [main/WARN] [FML]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:07:29] [main/WARN] [FML]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[04:07:29] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[04:07:29] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:07:29] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[04:07:29] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:07:29] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[04:07:29] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from MyServerIsCompatible-1.12.2-1.0.jar
+[04:07:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[04:07:29] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[04:07:29] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/fantastic-rotary-phone/servidor_minecraft/./mods/MyServerIsCompatible-1.12.2-1.0.jar Service=LaunchWrapper Env=SERVER
+[04:07:29] [main/WARN] [FML]: The coremod com.focamacho.myserveriscompatible.asm.MSICCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[04:07:29] [main/WARN] [FML]: The coremod MSICCoreMod (com.focamacho.myserveriscompatible.asm.MSICCoreMod) is not signed!
+[04:07:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[04:07:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[04:07:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[04:07:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:07:31] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:07:31] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[04:07:31] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[04:07:31] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[04:07:31] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[04:07:31] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@6070775e
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[04:07:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[04:07:31] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[04:07:31] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[04:07:32] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[04:07:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[04:07:34] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[04:07:34] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[04:07:34] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[04:07:35] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[04:07:35] [Server thread/INFO] [FML]: Searching /workspaces/fantastic-rotary-phone/servidor_minecraft/./mods for mods
+[04:07:36] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[04:07:36] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[04:07:36] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[04:07:36] [Server thread/INFO] [FML]: Disabling mod mousetweaks it is client side only.
+[04:07:36] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for bibliotheca: assets/bibliotheca/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for msic: assets/msic/lang/en_us.lang
+[04:07:36] [Server thread/WARN] [FML]: Missing English translation for roughmobs: assets/roughmobs/lang/en_us.lang
+[04:07:36] [Server thread/INFO] [FML]: FML has found a non-mod file MouseTweaks-2.10.1-mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[04:07:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ivtoolkit, micdoodlecore, artifacts, battletowers, baubles, bibliotheca, bouncy_creepers, clumps, extendedrenderer, coroutil, configmod, dungeonmobs, exoticbirds, galacticraftplanets, galacticraftcore, gravestone, hammertime, waila, ic2, infernalmobs, inventorytweaks, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, mobends, mutantbeasts, msic, reccomplex, roughmobs, simple_hammers, travelersbackpack, weather2] at CLIENT
+[04:07:37] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, ivtoolkit, micdoodlecore, artifacts, battletowers, baubles, bibliotheca, bouncy_creepers, clumps, extendedrenderer, coroutil, configmod, dungeonmobs, exoticbirds, galacticraftplanets, galacticraftcore, gravestone, hammertime, waila, ic2, infernalmobs, inventorytweaks, jei, journeymap, mekanism, mekanismgenerators, mekanismtools, mobends, mutantbeasts, msic, reccomplex, roughmobs, simple_hammers, travelersbackpack, weather2] at SERVER
+[04:07:38] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[04:07:38] [Server thread/INFO] [FML]: Found 1299 ObjectHolder annotations
+[04:07:38] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[04:07:38] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[04:07:38] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[04:07:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[04:07:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[04:07:38] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[04:07:38] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[04:07:38] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[04:07:38] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
+[04:07:38] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[04:07:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemhammerwood has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemhammerstone has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemhammeriron has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemhammergold has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemhammerdiamond has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemshovelwood has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemshovelstone has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemshoveliron has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemshovelgold has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemshoveldiamond has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemaxewood has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemaxestone has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemaxeiron has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemaxegold has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemaxediamond has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemsicklewood has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemsicklestone has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemsickleiron has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemsicklegold has been registered by Bibliotheca for the mod hammertime
+[04:07:45] [Server thread/INFO] [Bibliotheca]: [ITEM]: itemsicklediamond has been registered by Bibliotheca for the mod hammertime
+[04:07:46] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[04:07:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcstructuregenerator`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcmazegenerator`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcspawncommand`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rcspawnscript`, expected `reccomplex`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:46] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[04:07:46] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[04:07:46] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[04:07:46] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[04:07:46] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[04:07:46] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[04:07:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dungeonmobs.bladetrap`, expected `dungeonmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tornado_siren`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tornado_siren_manual`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wind_vane`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_forecast`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_machine`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_deflector`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `anemometer`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:49] [Server thread/INFO] [FML]: Applying holder lookups
+[04:07:49] [Server thread/INFO] [FML]: Holder lookups applied
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:wooden_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.wooden_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:stone_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.stone_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:golden_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.golden_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:iron_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.iron_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:31]: simple_hammers:diamond_hammer
+[04:07:49] [Server thread/INFO] [STDOUT]: [com.rendy.hammers.HammerItem:<init>:32]: item.simple_hammers.diamond_hammer
+[04:07:49] [Server thread/INFO] [FML]: Applying holder lookups
+[04:07:49] [Server thread/INFO] [FML]: Holder lookups applied
+[04:07:49] [Server thread/INFO] [FML]: Applying holder lookups
+[04:07:49] [Server thread/INFO] [FML]: Holder lookups applied
+[04:07:49] [Server thread/INFO] [FML]: Applying holder lookups
+[04:07:49] [Server thread/INFO] [FML]: Holder lookups applied
+[04:07:49] [Server thread/INFO] [FML]: Injecting itemstacks
+[04:07:49] [Server thread/INFO] [FML]: Itemstack injection complete
+[04:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[04:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[04:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[04:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[04:07:49] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[04:07:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:07:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[04:07:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:07:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:07:49] [Server thread/INFO] [FML]: Applying holder lookups
+[04:07:49] [Server thread/INFO] [FML]: Holder lookups applied
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc sealed ic2 cable`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[04:07:50] [Server thread/INFO] [infernalmobs]: InfernalMobsCore load() completed! Modifiers ready: 27, config file at: /workspaces/fantastic-rotary-phone/servidor_minecraft/config/infernalmobs.cfg
+[04:07:50] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
+[04:07:50] [Server thread/INFO] [Mekanism]: Loading complete.
+[04:07:50] [Server thread/INFO] [Mekanism]: Mod loaded.
+[04:07:50] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
+[04:07:50] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
+[04:07:50] [Server thread/INFO] [FML]: Injecting itemstacks
+[04:07:50] [Server thread/INFO] [FML]: Itemstack injection complete
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@4af44f2a
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSeeds@5b430541
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemMultiTexture@6b576ff8
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlockSpecial@194eae3e
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemPickaxe@c7c07ff
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemAxe@d271d6c
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@48d464cf
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@5a654e05
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@570127fa
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemCoal@319058ce
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlockSpecial@629de8
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemCloth@2336d3f
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@1e5e3147
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@6b32b678
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemFood@5a07ae2f
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemFood@1238a074
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@65c689e7
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@a6a2c20
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemMultiTexture@21022cbb
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@65a66a75
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSign@53551fef
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemFishingRod@3e18e693
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSeeds@673605ef
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSeeds@29eaf100
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemSword@6958d5d0
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@1b6683c4
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@3450bd13
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemFishFood@37344d31
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemDye@5737d116
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemArmor@21dd9203
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemArmor@dbcf7c3
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemArmor@1e466d
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemArmor@63243c8f
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook ChestGenHook:chests/simple_dungeon:3
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@1999e1f5
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlock@72240290
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemLilyPad@534d0cfa
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemBlockSpecial@52dd1be2
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook ChestGenHook:chests/simple_dungeon:5
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemEnderPearl@62e586a6
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@3909308c
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.ItemRedstone@28515443
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook net.minecraft.item.Item@3b6c740b
+[04:07:50] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.TowerStageItemManager:<init>:72]: Battletowers parsed Item/Block/ChestGenHook ChestGenHook:chests/simple_dungeon:7
+[04:07:50] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[04:07:50] [Server thread/INFO] [ic2.General]: ic2 version 2.8.222-ex112 loaded.
+[04:07:50] [Server thread/INFO] [Galacticraft]: Galacticraft: activating Mekanism compatibility.
+[04:07:50] [Server thread/INFO] [Galacticraft]: Galacticraft: activating IndustrialCraft2 compatibility features.
+[04:07:50] [Server thread/INFO] [Galacticraft]: Galacticraft: activating WAILA compatibility features.
+[04:07:50] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[04:07:50] [Server thread/INFO] [Mekanism]: Hooked into IC2 successfully.
+[04:07:50] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[04:07:50] [Server thread/INFO] [Mekanism]: Hooking complete.
+[04:07:52] [Server thread/INFO] [Waila]: Starting Waila...
+[04:07:52] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[04:07:52] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[04:07:52] [Server thread/INFO] [Waila]: Registering plugins...
+[04:07:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[04:07:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[04:07:52] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[04:07:52] [Server thread/INFO] [Waila]: Starting Waila took 26.13 ms
+[04:07:52] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 38 mods
+[04:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[04:07:52] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[04:07:52] [Server thread/INFO] [FML]: Applying holder lookups
+[04:07:52] [Server thread/INFO] [FML]: Holder lookups applied
+[04:07:52] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@634cbdf8)
+[04:07:53] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 532 advancements
+[04:07:53] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:403]: Battletower Positions reloaded. Lines 56, entries 43
+[04:07:53] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634cbdf8)
+[04:07:53] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:403]: Battletower Positions reloaded. Lines 1, entries 0
+[04:07:53] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@634cbdf8)
+[04:07:53] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.WorldGenHandler:loadPosFile:403]: Battletower Positions reloaded. Lines 1, entries 0
+[04:07:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[04:07:53] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Installed for use
+[04:07:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[04:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.951s)! For help, type "help" or "?"
+[04:07:54] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
+[04:07:54] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
+[04:07:54] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
+[04:07:54] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
+[04:07:54] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[04:07:54] [Server thread/INFO] [FML]: Unloading dimension -1
+[04:07:54] [Server thread/INFO] [FML]: Unloading dimension 1
+[04:07:55] [Thread-5/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[04:08:11] [Thread-5/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[04:08:20] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[04:08:20] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,extendedrenderer@v1.0,mousetweaks@2.10.1,baubles@1.5.2,dungeonmobs@5.8.6,configmod@v1.0,battletowers@1.6.5,jei@4.16.1.1013,reccomplex@1.4.8.6,hammertime@2.2.0,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,ic2@2.8.222-ex112,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,galacticraftcore@4.0.2.280,FML@8.0.99.99,weather2@1.12.1-2.6.12,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,mekanismtools@1.12.2-9.8.3.390,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,bibliotheca@1.3.6-1.12.2,galacticraftplanets@4.0.2.280,micdoodlecore@,msic@1.0,forge@14.23.5.2860,exoticbirds@1.0,infernalmobs@1.7.6,mobends@1.2.1,simple_hammers@0.0.1-BACKPORT
+[04:08:20] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[04:08:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:08:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jefferalex30[/100.67.216.94:56064] logged in with entity id 221 at (-675.8040861318154, 71.0, -481.21267013285535)
+[04:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 joined the game
+[04:08:21] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Jefferalex30'/221, l='world', x=-675.80, y=71.00, z=-481.21] connected. Sending ping
+[04:08:21] [Server thread/INFO] [Mekanism]: Sent config to 'Jefferalex30.'
+[04:08:28] [Thread-5/ERROR] [Galacticraft]: Galacticraft update check failed! Trying again in 15 seconds
+[04:08:38] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:08:38] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,extendedrenderer@v1.0,mousetweaks@2.10.1,baubles@1.5.2,dungeonmobs@5.8.6,configmod@v1.0,battletowers@1.6.5,jei@4.16.1.1013,reccomplex@1.4.8.6,hammertime@2.2.0,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,ic2@2.8.222-ex112,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,galacticraftcore@4.0.2.280,FML@8.0.99.99,weather2@1.12.1-2.6.12,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,coroutil@1.12.1-1.2.37,roughmobs@2.0.0,mekanismtools@1.12.2-9.8.3.390,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,bibliotheca@1.3.6-1.12.2,galacticraftplanets@4.0.2.280,micdoodlecore@,msic@1.0,forge@14.23.5.2860,exoticbirds@1.0,infernalmobs@1.7.6,mobends@1.2.1,simple_hammers@0.0.1-BACKPORT
+[04:08:38] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[04:08:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:08:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:60791] logged in with entity id 1230 at (-705.6991673606195, 65.0, -550.9782342782642)
+[04:08:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
+[04:08:40] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/1230, l='world', x=-705.70, y=65.00, z=-550.98] connected. Sending ping
+[04:08:40] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
+[04:13:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[04:13:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:13:19] [Server thread/INFO] [ic2.PlayerActivity]: Player Jefferalex30/7cebf66c-6470-34f1-88c9-d9ee7c453bff used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -825/68/-443.
+[04:14:29] [Server thread/INFO] [ic2.PlayerActivity]: Player Jefferalex30/7cebf66c-6470-34f1-88c9-d9ee7c453bff used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -711/65/-575.
+[04:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:17:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 was blown up by Creeper Minion
+[04:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope was blown up by Mutant Creeper
+[04:22:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:22:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[04:23:16] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[04:24:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:25:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:25:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Sticky stuff]
+[04:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Not Today, Thank You]
+[04:27:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:27:33] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SnakeTemple
+[04:27:33] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-65, -13] in dimension 0 (overworld) while populating chunk [-66, -13], causing cascading worldgen lag.
+[04:27:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:27:33] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SnakeTemple
+[04:27:33] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-65, -12] in dimension 0 (overworld) while populating chunk [-66, -13], causing cascading worldgen lag.
+[04:27:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:27:33] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing SnakeTemple
+[04:27:33] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-66, -12] in dimension 0 (overworld) while populating chunk [-66, -13], causing cascading worldgen lag.
+[04:27:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:27:34] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing SnakeTemple
+[04:27:34] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-67, -13] in dimension 0 (overworld) while populating chunk [-66, -13], causing cascading worldgen lag.
+[04:27:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:27:34] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing SnakeTemple
+[04:27:34] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-67, -14] in dimension 0 (overworld) while populating chunk [-66, -13], causing cascading worldgen lag.
+[04:27:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:27:34] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while preparing SnakeTemple
+[04:27:34] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-67, -15] in dimension 0 (overworld) while populating chunk [-66, -13], causing cascading worldgen lag.
+[04:27:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:31:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:33:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:34:25] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating OakTreeBig
+[04:34:25] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-64, -9], causing cascading worldgen lag.
+[04:34:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:34:25] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[04:34:25] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-64, -8] in dimension 0 (overworld) while populating chunk [-64, -9], causing cascading worldgen lag.
+[04:34:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:34:25] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[04:34:25] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-65, -8] in dimension 0 (overworld) while populating chunk [-64, -9], causing cascading worldgen lag.
+[04:34:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:34:25] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[04:34:25] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-65, -9] in dimension 0 (overworld) while populating chunk [-64, -9], causing cascading worldgen lag.
+[04:34:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:34:25] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[04:34:25] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-67, -10] in dimension 0 (overworld) while populating chunk [-66, -9], causing cascading worldgen lag.
+[04:34:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:34:25] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[04:34:25] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-67, -9] in dimension 0 (overworld) while populating chunk [-66, -9], causing cascading worldgen lag.
+[04:34:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:34:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:35:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:39:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:39:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 was shot by Skeleton
+[04:39:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:39:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:41:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 was slain by matilope
+[04:41:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:41:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:41:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:41:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:42:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:42:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 was shot by Baby Skeleton
+[04:42:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:44:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:45:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:46:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[04:50:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:52:02] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[04:52:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-65, -6] in dimension 0 (overworld) while populating chunk [-64, -6], causing cascading worldgen lag.
+[04:52:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:52:02] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[04:52:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-64, -7] in dimension 0 (overworld) while populating chunk [-64, -6], causing cascading worldgen lag.
+[04:52:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:52:02] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[04:52:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-65, -7] in dimension 0 (overworld) while populating chunk [-64, -6], causing cascading worldgen lag.
+[04:52:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:52:03] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[04:52:03] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-64, -4] in dimension 0 (overworld) while populating chunk [-64, -5], causing cascading worldgen lag.
+[04:52:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:52:03] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -1024 | -80 ], underground: false
+[04:52:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:54:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:54:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:54:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:55:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:55:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[04:55:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[04:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[05:00:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[05:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[05:05:30] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-789, y=19, z=-491}
+[05:05:30] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-789, y=19, z=-491}
+[05:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[05:09:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[05:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[05:14:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[05:15:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [Ice Bucket Challenge]
+[05:15:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[05:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[05:16:47] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@634cbdf8)
+[05:16:49] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing NetherThorn5
+[05:16:49] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-6, -10] in dimension -1 (the_nether) while populating chunk [-7, -10], causing cascading worldgen lag.
+[05:16:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:16:49] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing NetherThorn5
+[05:16:49] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-6, -11] in dimension -1 (the_nether) while populating chunk [-7, -10], causing cascading worldgen lag.
+[05:16:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:16:50] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating NetherThorn1
+[05:16:50] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension -1 (the_nether) while populating chunk [-2, -2], causing cascading worldgen lag.
+[05:16:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [We Need to Go Deeper]
+[05:16:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3049ms behind, skipping 60 tick(s)
+[05:16:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Jefferalex30 moved too quickly! 635.9464813783557,7.0,484.4637360701338
+[05:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [We Need to Go Deeper]
+[05:16:57] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing NetherThorn3
+[05:16:57] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-2, -18] in dimension -1 (the_nether) while populating chunk [-2, -17], causing cascading worldgen lag.
+[05:16:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:16:57] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing NetherThorn3
+[05:16:57] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-3, -18] in dimension -1 (the_nether) while populating chunk [-2, -17], causing cascading worldgen lag.
+[05:16:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:16:57] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing NetherThorn3
+[05:16:57] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-3, -19] in dimension -1 (the_nether) while populating chunk [-3, -18], causing cascading worldgen lag.
+[05:16:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:17:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Jefferalex30 moved too quickly! -636.1322694107635,-7.0,-484.78835469041616
+[05:17:52] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating NetherThorn3
+[05:17:52] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension -1 (the_nether) while populating chunk [-20, -11], causing cascading worldgen lag.
+[05:17:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:23:57] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-66, -52] in dimension 0 (overworld) while populating chunk [-65, -51], causing cascading worldgen lag.
+[05:23:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:23:57] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ -1040 | -816 ], underground: true
+[05:24:22] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-70, -31] in dimension 0 (overworld) while populating chunk [-69, -30], causing cascading worldgen lag.
+[05:24:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:24:22] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -1104 | -480 ], underground: true
+[05:24:36] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing WhiteWillowLarge
+[05:24:36] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-71, -38] in dimension 0 (overworld) while populating chunk [-70, -38], causing cascading worldgen lag.
+[05:24:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:24:51] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-1019, y=22, z=-583}
+[05:24:51] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-1019, y=22, z=-583}
+[05:24:51] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-1020, y=22, z=-582}
+[05:24:51] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-1020, y=22, z=-582}
+[05:24:51] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-1021, y=22, z=-582}
+[05:24:51] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-1021, y=22, z=-582}
+[05:24:51] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-1019, y=22, z=-582}
+[05:24:51] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-1019, y=22, z=-582}
+[05:25:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jefferalex30 lost connection: Disconnected
+[05:25:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 left the game
+[05:25:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-75, -43] in dimension 0 (overworld) while populating chunk [-74, -42], causing cascading worldgen lag.
+[05:25:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:25:15] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ -1184 | -672 ], underground: true
+[05:25:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Disconnected
+[05:25:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
+[05:25:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:25:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:25:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[05:25:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[05:25:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/the_nether
+[05:25:43] [Server thread/INFO] [FML]: Unloading dimension 0
+[05:25:43] [Server thread/INFO] [FML]: Unloading dimension -1
+[05:25:43] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[05:25:43] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[05:25:43] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[05:25:43] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[05:25:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:25:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[05:25:43] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
