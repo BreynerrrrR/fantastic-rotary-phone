@@ -23260,3 +23260,131 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:31:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 480 times.
 
 [19:31:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:32:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 485 times.
+
+[19:32:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: matilope was kicked for floating a vehicle too long!
+[19:32:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Flying is not enabled on this server
+[19:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
+[19:32:12] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:32:12] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:32:12] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:32:12] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:32:12] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[19:32:12] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[19:32:12] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 58 mods : buildcraftlib@7.99.24.8,extendedrenderer@v1.0,buildcraftenergy@7.99.24.8,configmod@v1.0,jei@4.16.1.1013,buildcrafttransport@7.99.24.8,hammertime@2.2.0,cofhcore@4.6.6,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,thermalfoundation@2.6.7,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,weather2@1.12.1-2.6.12,bookshelf@2.3.590,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,roughmobs@2.0.0,cofhworld@1.4.0,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,galacticraftplanets@4.0.2.280,micdoodlecore@,forge@14.23.5.2860,buildcraftrobotics@7.99.24.8,eplus@5.0.176,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,mousetweaks@2.10.1,baubles@1.5.2,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.8,dungeonmobs@5.8.6,battletowers@1.6.5,reccomplex@1.4.8.6,ic2@2.8.222-ex112,buildcraftbuilders@7.99.24.8,gravestone@1.10.3,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.2.280,elevatorid@1.3.12,FML@8.0.99.99,thermalexpansion@5.5.7,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,buildcraftcompat@7.99.24.8,bibliotheca@1.3.6-1.12.2,msic@1.0,codechickenlib@3.2.3.358,exoticbirds@1.0,buildcraftcore@7.99.24.8,mobends@1.2.1
+[19:32:12] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[19:32:12] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[19:32:12] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:32:12] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[19:32:12] [Netty Epoll Server IO #7/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:32:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:32:14] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:32:14] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[19:32:14] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:32:14] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:32:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:61841] logged in with entity id 151044 at (-745.2253443966254, 71.28590718906302, -575.8454491293447)
+[19:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
+[19:32:14] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/151044, l='world', x=-745.23, y=71.29, z=-575.85] connected. Sending ping
+[19:32:14] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
+[19:32:14] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:32:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 490 times.
+
+[19:32:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:33:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 495 times.
+
+[19:33:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:34:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:34:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 500 times.
+
+[19:35:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 505 times.
+
+[19:35:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:36:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 510 times.
+
+[19:36:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:37:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 515 times.
+
+[19:37:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[19:37:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:37:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 520 times.
+
+[19:37:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[19:38:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:38:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 525 times.
+
+[19:38:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[19:39:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 530 times.
+
+[19:39:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Disconnected
+[19:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
+[19:39:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:39:47] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:39:47] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:39:47] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:39:47] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:39:47] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[19:39:47] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[19:39:47] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 58 mods : buildcraftlib@7.99.24.8,extendedrenderer@v1.0,buildcraftenergy@7.99.24.8,configmod@v1.0,jei@4.16.1.1013,buildcrafttransport@7.99.24.8,hammertime@2.2.0,cofhcore@4.6.6,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,thermalfoundation@2.6.7,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,weather2@1.12.1-2.6.12,bookshelf@2.3.590,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,roughmobs@2.0.0,cofhworld@1.4.0,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,galacticraftplanets@4.0.2.280,micdoodlecore@,forge@14.23.5.2860,buildcraftrobotics@7.99.24.8,eplus@5.0.176,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,mousetweaks@2.10.1,baubles@1.5.2,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.8,dungeonmobs@5.8.6,battletowers@1.6.5,reccomplex@1.4.8.6,ic2@2.8.222-ex112,buildcraftbuilders@7.99.24.8,gravestone@1.10.3,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.2.280,elevatorid@1.3.12,FML@8.0.99.99,thermalexpansion@5.5.7,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,buildcraftcompat@7.99.24.8,bibliotheca@1.3.6-1.12.2,msic@1.0,codechickenlib@3.2.3.358,exoticbirds@1.0,buildcraftcore@7.99.24.8,mobends@1.2.1
+[19:39:47] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[19:39:47] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[19:39:47] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:39:47] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[19:39:47] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:39:49] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:39:49] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[19:39:49] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:39:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:39:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:61928] logged in with entity id 167333 at (-713.5, 65.02159847259522, -556.5)
+[19:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
+[19:39:49] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/167333, l='world', x=-713.50, y=65.02, z=-556.50] connected. Sending ping
+[19:39:49] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
+[19:39:49] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:40:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 535 times.
+
+[19:40:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:41:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 540 times.
+
+[19:41:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:41:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:42:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 545 times.
+
+[19:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Jefferalex30's game mode to Creative Mode
+[19:42:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:42:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 550 times.
+
+[19:43:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:43:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 555 times.
+
+[19:44:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:44:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 560 times.
+
+[19:44:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:45:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 565 times.
+
+[19:45:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:46:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 570 times.
+
+[19:46:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:47:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 575 times.
+
+[19:47:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:47:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[19:47:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 580 times.
+
+[19:47:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:48:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[19:48:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 585 times.
+
+[19:48:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:49:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:49:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 590 times.
+
+[19:50:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:50:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 595 times.
+
+[19:50:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:51:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 600 times.
+
+[19:51:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

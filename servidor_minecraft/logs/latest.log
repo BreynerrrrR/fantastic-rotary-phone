@@ -1025,3 +1025,32 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:27:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: matilope moved wrongly!
 [19:28:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
 [19:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope has made the advancement [The Parrots and the Bats]
+[19:32:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: matilope was kicked for floating a vehicle too long!
+[19:32:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Flying is not enabled on this server
+[19:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
+[19:32:12] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[19:32:12] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 58 mods : buildcraftlib@7.99.24.8,extendedrenderer@v1.0,buildcraftenergy@7.99.24.8,configmod@v1.0,jei@4.16.1.1013,buildcrafttransport@7.99.24.8,hammertime@2.2.0,cofhcore@4.6.6,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,thermalfoundation@2.6.7,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,weather2@1.12.1-2.6.12,bookshelf@2.3.590,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,roughmobs@2.0.0,cofhworld@1.4.0,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,galacticraftplanets@4.0.2.280,micdoodlecore@,forge@14.23.5.2860,buildcraftrobotics@7.99.24.8,eplus@5.0.176,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,mousetweaks@2.10.1,baubles@1.5.2,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.8,dungeonmobs@5.8.6,battletowers@1.6.5,reccomplex@1.4.8.6,ic2@2.8.222-ex112,buildcraftbuilders@7.99.24.8,gravestone@1.10.3,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.2.280,elevatorid@1.3.12,FML@8.0.99.99,thermalexpansion@5.5.7,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,buildcraftcompat@7.99.24.8,bibliotheca@1.3.6-1.12.2,msic@1.0,codechickenlib@3.2.3.358,exoticbirds@1.0,buildcraftcore@7.99.24.8,mobends@1.2.1
+[19:32:12] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[19:32:12] [Netty Epoll Server IO #7/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:32:14] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:32:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:61841] logged in with entity id 151044 at (-745.2253443966254, 71.28590718906302, -575.8454491293447)
+[19:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
+[19:32:14] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/151044, l='world', x=-745.23, y=71.29, z=-575.85] connected. Sending ping
+[19:32:14] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
+[19:37:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[19:37:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[19:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[19:39:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Disconnected
+[19:39:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
+[19:39:47] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[19:39:47] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 58 mods : buildcraftlib@7.99.24.8,extendedrenderer@v1.0,buildcraftenergy@7.99.24.8,configmod@v1.0,jei@4.16.1.1013,buildcrafttransport@7.99.24.8,hammertime@2.2.0,cofhcore@4.6.6,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,thermalfoundation@2.6.7,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,weather2@1.12.1-2.6.12,bookshelf@2.3.590,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,roughmobs@2.0.0,cofhworld@1.4.0,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,galacticraftplanets@4.0.2.280,micdoodlecore@,forge@14.23.5.2860,buildcraftrobotics@7.99.24.8,eplus@5.0.176,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,mousetweaks@2.10.1,baubles@1.5.2,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.8,dungeonmobs@5.8.6,battletowers@1.6.5,reccomplex@1.4.8.6,ic2@2.8.222-ex112,buildcraftbuilders@7.99.24.8,gravestone@1.10.3,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.2.280,elevatorid@1.3.12,FML@8.0.99.99,thermalexpansion@5.5.7,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,buildcraftcompat@7.99.24.8,bibliotheca@1.3.6-1.12.2,msic@1.0,codechickenlib@3.2.3.358,exoticbirds@1.0,buildcraftcore@7.99.24.8,mobends@1.2.1
+[19:39:47] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[19:39:47] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[19:39:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:39:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: matilope[/100.88.140.5:61928] logged in with entity id 167333 at (-713.5, 65.02159847259522, -556.5)
+[19:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope joined the game
+[19:39:49] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['matilope'/167333, l='world', x=-713.50, y=65.02, z=-556.50] connected. Sending ping
+[19:39:49] [Server thread/INFO] [Mekanism]: Sent config to 'matilope.'
+[19:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Jefferalex30's game mode to Creative Mode
+[19:47:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[19:48:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
