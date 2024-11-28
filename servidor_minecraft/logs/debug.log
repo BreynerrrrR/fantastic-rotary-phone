@@ -21665,3 +21665,48 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:20:17] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-890, y=24, z=-319}
 [18:20:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 55 times.
 
+[18:20:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:21:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 60 times.
+
+[18:21:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:21:57] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-726, y=12, z=-590}
+[18:21:58] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-726, y=12, z=-590}
+[18:22:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 65 times.
+
+[18:22:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:22:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 70 times.
+
+[18:23:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:23:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 75 times.
+
+[18:23:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Entity 'jefferalex' cannot be found
+[18:23:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Jefferalex30 to matilope
+[18:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jefferalex30> a
+[18:24:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 80 times.
+
+[18:24:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:25:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 85 times.
+
+[18:25:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[18:26:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 90 times.
+
+[18:26:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:26:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:27:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 95 times.
+
+[18:27:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:27:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 100 times.
+
+[18:28:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:28:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 105 times.
+
+[18:29:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:29:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 110 times.
+
+[18:29:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <matilope> un cubo hierro
+[18:29:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[18:30:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 115 times.
+
+[18:30:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

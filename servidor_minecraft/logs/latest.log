@@ -913,3 +913,10 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:19:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
 [18:20:17] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-890, y=24, z=-319}
 [18:20:17] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-890, y=24, z=-319}
+[18:21:57] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-726, y=12, z=-590}
+[18:21:58] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-726, y=12, z=-590}
+[18:23:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Entity 'jefferalex' cannot be found
+[18:24:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Jefferalex30 to matilope
+[18:24:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jefferalex30> a
+[18:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[18:29:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <matilope> un cubo hierro
