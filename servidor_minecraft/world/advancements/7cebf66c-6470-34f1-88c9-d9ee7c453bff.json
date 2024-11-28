@@ -1188,6 +1188,12 @@
     },
     "done": true
   },
+  "buildcraftenergy:sticky_dipping": {
+    "criteria": {
+      "oil": "2024-11-28 20:10:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-11-27 02:26:23 +0000"
