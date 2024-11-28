@@ -1938,3 +1938,23 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [20:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 left the game
 [20:48:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Disconnected
 [20:48:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
+[20:52:50] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[20:52:50] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 58 mods : buildcraftlib@7.99.24.8,extendedrenderer@v1.0,buildcraftenergy@7.99.24.8,configmod@v1.0,jei@4.16.1.1013,buildcrafttransport@7.99.24.8,hammertime@2.2.0,cofhcore@4.6.6,mekanism@1.12.2-9.8.3.390,ivtoolkit@1.3.3-1.12,thermalfoundation@2.6.7,mcp@9.42,clumps@3.1.2,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.4,travelersbackpack@1.0.35,weather2@1.12.1-2.6.12,bookshelf@2.3.590,mutantbeasts@1.12.2-1.0.2,inventorytweaks@1.64+dev.151.822d839,roughmobs@2.0.0,cofhworld@1.4.0,bouncy_creepers@0.0.4,waila@1.8.26,mekanismgenerators@1.12.2-9.8.3.390,galacticraftplanets@4.0.2.280,micdoodlecore@,forge@14.23.5.2860,buildcraftrobotics@7.99.24.8,eplus@5.0.176,infernalmobs@1.7.6,ironchest@1.12.2-7.0.67.844,simple_hammers@0.0.1-BACKPORT,minecraft@1.12.2,mousetweaks@2.10.1,baubles@1.5.2,redstoneflux@2.1.1,buildcraftsilicon@7.99.24.8,dungeonmobs@5.8.6,battletowers@1.6.5,reccomplex@1.4.8.6,ic2@2.8.222-ex112,buildcraftbuilders@7.99.24.8,gravestone@1.10.3,buildcraftfactory@7.99.24.8,galacticraftcore@4.0.2.280,elevatorid@1.3.12,FML@8.0.99.99,thermalexpansion@5.5.7,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,buildcraftcompat@7.99.24.8,bibliotheca@1.3.6-1.12.2,msic@1.0,codechickenlib@3.2.3.358,exoticbirds@1.0,buildcraftcore@7.99.24.8,mobends@1.2.1
+[20:52:50] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[20:52:50] [Netty Epoll Server IO #4/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[20:52:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:52:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Jefferalex30[/100.67.216.94:65042] logged in with entity id 303554 at (-709.7427097698788, 65.1212968405392, -557.8527284288872)
+[20:52:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 joined the game
+[20:52:52] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Jefferalex30'/303554, l='world', x=-709.74, y=65.12, z=-557.85] connected. Sending ping
+[20:52:52] [Server thread/INFO] [Mekanism]: Sent config to 'Jefferalex30.'
+[20:53:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:53:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:53:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:53:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[20:53:32] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:53:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -30
+[20:53:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -29
+[20:53:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -31
+[20:53:32] [Server thread/INFO] [Galacticraft]: Unregistered Dimension: -28
+[20:53:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:53:32] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
