@@ -925,6 +925,12 @@
     },
     "done": true
   },
+  "buildcraftfactory:fluid_storage": {
+    "criteria": {
+      "code_trigger": "2024-11-28 19:01:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-11-27 01:50:53 +0000"
@@ -1331,6 +1337,12 @@
     },
     "done": true
   },
+  "buildcraftcore:free_power": {
+    "criteria": {
+      "code_trigger": "2024-11-28 19:09:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-11-28 00:31:26 +0000"
@@ -1538,6 +1550,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-11-27 02:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-11-28 18:51:33 +0000"
     },
     "done": true
   },
@@ -1903,6 +1921,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-11-27 01:54:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2024-11-28 19:00:14 +0000"
     },
     "done": true
   },

@@ -959,3 +959,45 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:43:31] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-725, y=24, z=-456}
 [18:43:31] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-725, y=24, z=-456}
 [18:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
+[18:52:06] [Server thread/INFO] [ic2.PlayerActivity]: Player Jefferalex30/7cebf66c-6470-34f1-88c9-d9ee7c453bff used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=miner] (te Miner) at dim 0: -711/65/-572.
+[18:56:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[19:01:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [advancements.buildcraftfactory.fluid_storage.title]
+[19:05:21] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
+[19:05:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-60, 2] in dimension 0 (overworld) while populating chunk [-59, 2], causing cascading worldgen lag.
+[19:05:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:22] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -832 | 32 ], underground: false
+[19:05:22] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-796, y=19, z=-498}
+[19:05:22] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-796, y=19, z=-498}
+[19:05:23] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[19:05:23] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-55, 3] in dimension 0 (overworld) while populating chunk [-54, 3], causing cascading worldgen lag.
+[19:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:23] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[19:05:23] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-55, 4] in dimension 0 (overworld) while populating chunk [-54, 3], causing cascading worldgen lag.
+[19:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:23] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[19:05:23] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-54, 4] in dimension 0 (overworld) while populating chunk [-54, 3], causing cascading worldgen lag.
+[19:05:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:35] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeBig
+[19:05:35] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-62, -4] in dimension 0 (overworld) while populating chunk [-61, -4], causing cascading worldgen lag.
+[19:05:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:37] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[19:05:37] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-62, 3] in dimension 0 (overworld) while populating chunk [-61, 3], causing cascading worldgen lag.
+[19:05:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:37] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[19:05:37] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-62, 2] in dimension 0 (overworld) while populating chunk [-61, 3], causing cascading worldgen lag.
+[19:05:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:46] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[19:05:46] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-63, -3] in dimension 0 (overworld) while populating chunk [-63, -2], causing cascading worldgen lag.
+[19:05:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:46] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[19:05:46] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-64, -2] in dimension 0 (overworld) while populating chunk [-63, -2], causing cascading worldgen lag.
+[19:05:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:05:46] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[19:05:46] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-64, -3] in dimension 0 (overworld) while populating chunk [-63, -2], causing cascading worldgen lag.
+[19:05:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:06:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[19:06:52] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-796, y=19, z=-43}
+[19:06:52] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-796, y=19, z=-43}
+[19:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[19:09:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[19:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [advancements.buildcraftcore.freePowar.title]
