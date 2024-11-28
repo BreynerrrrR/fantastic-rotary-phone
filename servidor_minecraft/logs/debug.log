@@ -23388,3 +23388,48 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:51:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 600 times.
 
 [19:51:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 605 times.
+
+[19:52:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 610 times.
+
+[19:53:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:53:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 615 times.
+
+[19:53:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:54:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set Jefferalex30's game mode to Survival Mode
+[19:54:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 620 times.
+
+[19:54:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:54:57] [Netty Epoll Server IO #5/ERROR] [FML]: NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken pipe
+	at io.netty.channel.unix.FileDescriptor.writeAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[19:54:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jefferalex30 lost connection: Disconnected
+[19:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 left the game
+[19:55:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 625 times.
+
+[19:55:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:56:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 630 times.
+
+[19:56:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:56:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 635 times.
+
+[19:57:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:57:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 640 times.
+
+[19:58:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:58:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 645 times.
+
+[19:59:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:59:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 650 times.
+
+[19:59:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:00:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 655 times.
+
+[20:00:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:01:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 660 times.
+
+[20:01:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:02:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 665 times.
+
