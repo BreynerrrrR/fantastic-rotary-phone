@@ -952,3 +952,10 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 joined the game
 [18:36:00] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['Jefferalex30'/37277, l='world', x=-708.82, y=65.00, z=-543.38] connected. Sending ping
 [18:36:00] [Server thread/INFO] [Mekanism]: Sent config to 'Jefferalex30.'
+[18:42:32] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-661, y=11, z=-535}
+[18:42:32] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-661, y=11, z=-535}
+[18:43:31] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-724, y=24, z=-456}
+[18:43:31] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-724, y=24, z=-456}
+[18:43:31] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-725, y=24, z=-456}
+[18:43:31] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-725, y=24, z=-456}
+[18:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
