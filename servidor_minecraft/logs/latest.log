@@ -1001,3 +1001,9 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
 [19:09:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
 [19:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 has made the advancement [advancements.buildcraftcore.freePowar.title]
+[19:13:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-734, y=23, z=-593}
+[19:13:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-734, y=23, z=-593}
+[19:16:01] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-612, y=22, z=-644}
+[19:16:01] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-612, y=22, z=-644}
+[19:18:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[19:20:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jefferalex30> bloques de redstnes

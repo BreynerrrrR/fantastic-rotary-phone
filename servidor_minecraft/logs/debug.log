@@ -23149,3 +23149,46 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:11:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 360 times.
 
 [19:11:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:11:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:12:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 365 times.
+
+[19:12:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:12:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 370 times.
+
+[19:13:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:13:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 375 times.
+
+[19:13:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-734, y=23, z=-593}
+[19:13:55] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-734, y=23, z=-593}
+[19:14:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:14:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 380 times.
+
+[19:14:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:15:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 385 times.
+
+[19:15:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:16:01] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:293]: Testing block BlockPos{x=-612, y=22, z=-644}
+[19:16:01] [Server thread/INFO] [STDERR]: [com.gw.dm.entity.EntityThoqqua:changeLavaToMagma:296]: Converting block BlockPos{x=-612, y=22, z=-644}
+[19:16:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 390 times.
+
+[19:16:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:17:02] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 395 times.
+
+[19:17:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:17:52] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 400 times.
+
+[19:17:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:18:42] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 405 times.
+
+[19:18:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:18:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity exoticbirds:magpie that already exists with UUID 8ca1c130-39a0-4c1f-97c0-97867a84275e
+[19:19:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:19:32] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 410 times.
+
+[19:20:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:20:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jefferalex30> bloques de redstnes
+[19:20:22] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 415 times.
+
+[19:20:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:21:12] [Server thread/DEBUG] [FML]: The world 4c20c39a (world) may have leaked: seen 420 times.
+
