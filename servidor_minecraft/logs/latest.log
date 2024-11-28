@@ -1908,3 +1908,33 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [20:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
 [20:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported Jefferalex30 to matilope]
 [20:31:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to -703.5, 65.0, -552.5]
+[20:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[20:35:36] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-135, -64] in dimension 0 (overworld) while populating chunk [-134, -63], causing cascading worldgen lag.
+[20:35:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:35:36] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -2144 | -1008 ], underground: false
+[20:35:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to -703.5, 65.0, -552.5]
+[20:38:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[20:38:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-132, -57] in dimension 0 (overworld) while populating chunk [-132, -58], causing cascading worldgen lag.
+[20:38:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:38:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[20:38:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-133, -57] in dimension 0 (overworld) while populating chunk [-132, -58], causing cascading worldgen lag.
+[20:38:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:38:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing OakTreeHuge
+[20:38:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-133, -58] in dimension 0 (overworld) while populating chunk [-132, -58], causing cascading worldgen lag.
+[20:38:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:38:43] [Server thread/WARN] [FML]: Exotic Birds loaded a new chunk [-133, -59] in dimension 0 (overworld) while populating chunk [-133, -58], causing cascading worldgen lag.
+[20:38:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:38:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:38:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-131, -58] in dimension 0 (overworld) while populating chunk [-132, -58], causing cascading worldgen lag.
+[20:38:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:40:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jefferalex30> -1948 -1084 69
+[20:40:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Jefferalex30 to matilope
+[20:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to -703.5, 65.0, -552.5]
+[20:41:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Jefferalex30 to matilope
+[20:43:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to -703.5, 65.0, -552.5]
+[20:43:08] [Server thread/INFO] [ic2.PlayerActivity]: Player Jefferalex30/7cebf66c-6470-34f1-88c9-d9ee7c453bff used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=electric_heat_generator] (te ElectricHeatGenerator) at dim 0: -713/65/-553.
+[20:43:10] [Server thread/INFO] [ic2.PlayerActivity]: Player Jefferalex30/7cebf66c-6470-34f1-88c9-d9ee7c453bff used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=blast_furnace] (te BlastFurnace) at dim 0: -713/65/-552.
+[20:43:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Jefferalex30 lost connection: Disconnected
+[20:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 left the game
+[20:48:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: matilope lost connection: Disconnected
+[20:48:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope left the game
