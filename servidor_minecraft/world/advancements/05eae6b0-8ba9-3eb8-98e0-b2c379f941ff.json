@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-11-29 02:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2024-11-27 01:11:18 +0000"
@@ -463,6 +469,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-11-27 01:09:17 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:eb/place_phoenixegg": {
+    "criteria": {
+      "phoenix_egg": "2024-11-29 02:27:37 +0000"
     },
     "done": true
   },
@@ -871,6 +883,12 @@
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-11-27 00:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-29 02:14:21 +0000"
     },
     "done": true
   },
@@ -1347,6 +1365,12 @@
     },
     "done": true
   },
+  "exoticbirds:eb/obtain_phoenixegg": {
+    "criteria": {
+      "phoenix_egg": "2024-11-29 02:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_the_recipe": "2024-11-27 04:09:55 +0000"
@@ -1374,6 +1398,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-11-26 23:56:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-29 02:14:21 +0000"
     },
     "done": true
   },
