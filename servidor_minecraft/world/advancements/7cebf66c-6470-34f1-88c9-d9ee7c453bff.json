@@ -41,9 +41,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-28 23:20:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 01:52:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-11-28 23:15:14 +0000"
     },
     "done": true
   },
@@ -281,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-11-28 23:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-11-27 03:39:22 +0000"
@@ -353,9 +371,11 @@
       "cooked_mutton": "2024-11-27 03:13:22 +0000",
       "cooked_beef": "2024-11-26 23:53:00 +0000",
       "baked_potato": "2024-11-28 20:25:36 +0000",
+      "potato": "2024-11-29 00:29:43 +0000",
       "cooked_cod": "2024-11-28 05:46:52 +0000",
       "pumpkin_pie": "2024-11-28 20:21:59 +0000",
       "bread": "2024-11-27 23:42:43 +0000",
+      "golden_apple": "2024-11-29 00:43:57 +0000",
       "cookie": "2024-11-28 02:44:43 +0000",
       "rotten_flesh": "2024-11-28 02:20:25 +0000",
       "cooked_chicken": "2024-11-26 23:53:12 +0000"
@@ -554,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-11-28 23:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-11-27 03:39:13 +0000"
@@ -569,6 +595,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-11-27 01:52:44 +0000"
+    },
+    "done": true
+  },
+  "exoticbirds:eb/craft_book": {
+    "criteria": {
+      "bird_book": "2024-11-28 23:13:24 +0000"
     },
     "done": true
   },
@@ -605,6 +637,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-11-27 02:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-11-28 23:15:14 +0000"
     },
     "done": true
   },
@@ -737,6 +775,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-11-27 02:07:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-11-28 23:20:24 +0000"
     },
     "done": true
   },
@@ -1102,6 +1146,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-28 23:36:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-11-26 23:45:05 +0000"
@@ -1117,6 +1167,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2024-11-27 04:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-29 00:00:12 +0000"
     },
     "done": true
   },
@@ -1223,6 +1279,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-11-27 01:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-11-28 23:20:24 +0000"
     },
     "done": true
   },
@@ -1448,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-11-28 23:20:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2024-11-27 02:36:25 +0000"
@@ -1538,6 +1606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-11-29 00:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-11-27 02:52:33 +0000"
@@ -1598,9 +1672,21 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-29 00:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2024-11-27 03:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-11-28 23:15:14 +0000"
     },
     "done": true
   },
@@ -1633,6 +1719,7 @@
       "forest_hills": "2024-11-28 20:12:48 +0000",
       "plains": "2024-11-26 23:44:25 +0000",
       "taiga": "2024-11-28 20:21:06 +0000",
+      "birch_forest_hills": "2024-11-29 00:40:59 +0000",
       "ocean": "2024-11-27 01:58:12 +0000",
       "extreme_hills": "2024-11-26 23:48:28 +0000",
       "roofed_forest": "2024-11-26 23:45:48 +0000",
@@ -1686,6 +1773,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-11-26 23:45:45 +0000"
+    },
+    "done": true
+  },
+  "buildcraftlib:recipes/guide_book": {
+    "criteria": {
+      "has_paper": "2024-11-29 00:38:44 +0000"
     },
     "done": true
   },
@@ -1770,6 +1863,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-11-28 20:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-11-28 23:15:14 +0000"
     },
     "done": true
   },
