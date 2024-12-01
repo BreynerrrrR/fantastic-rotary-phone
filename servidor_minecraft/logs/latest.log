@@ -940,3 +940,38 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [02:13:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [02:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jefferalex30> a
 [02:13:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cave_spider that already exists with UUID 90b4fbe1-2749-41a9-b41e-2e277c1de360
+[02:14:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Jefferalex30 fell from a high place
+[02:14:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to -494.5, 41.0, -1264.5]
+[02:14:53] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[02:14:53] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-43, -80] in dimension 0 (overworld) while populating chunk [-42, -80], causing cascading worldgen lag.
+[02:14:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:14:53] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[02:14:53] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-42, -79] in dimension 0 (overworld) while populating chunk [-43, -80], causing cascading worldgen lag.
+[02:14:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:14:53] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[02:14:53] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-43, -79] in dimension 0 (overworld) while populating chunk [-43, -80], causing cascading worldgen lag.
+[02:14:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:14:53] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[02:14:53] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-44, -79] in dimension 0 (overworld) while populating chunk [-43, -80], causing cascading worldgen lag.
+[02:14:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:14:53] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[02:14:53] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-44, -80] in dimension 0 (overworld) while populating chunk [-43, -80], causing cascading worldgen lag.
+[02:14:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:14:53] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[02:14:53] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-42, -81] in dimension 0 (overworld) while populating chunk [-42, -80], causing cascading worldgen lag.
+[02:14:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:14:53] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[02:14:53] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-43, -81] in dimension 0 (overworld) while populating chunk [-42, -80], causing cascading worldgen lag.
+[02:14:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:15:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:witch that already exists with UUID cf9976e9-f22b-46ef-935b-3a1a36fd1e07
+[02:15:16] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 3159268b-9900-4100-a3aa-f39271130eb8
+[02:15:25] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-45, -90] in dimension 0 (overworld) while populating chunk [-44, -89], causing cascading worldgen lag.
+[02:15:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:15:25] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ -704 | -1424 ], underground: false
+[02:19:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:zombie that already exists with UUID 58391e63-896b-4477-b830-f14564bbf8db
+[02:21:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:cave_spider that already exists with UUID a9c488e6-df50-4244-83d1-fc412047fb93
+[02:21:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:witch that already exists with UUID 2fb33583-64a0-4da2-a29f-0560899f6617
+[02:23:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: matilope moved wrongly!
+[02:23:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 27bf0d5e-76a1-4b67-88c3-fa108233b98e
+[02:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Set game difficulty to Hard]
+[02:24:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2281ms behind, skipping 45 tick(s)
