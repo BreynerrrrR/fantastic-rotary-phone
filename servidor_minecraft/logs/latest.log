@@ -975,3 +975,18 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [02:23:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 27bf0d5e-76a1-4b67-88c3-fa108233b98e
 [02:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Set game difficulty to Hard]
 [02:24:15] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2281ms behind, skipping 45 tick(s)
+[02:24:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 26cf27cc-d0ef-44e3-80fc-42035ca710de
+[02:27:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope was slain by Cave Spider
+[02:27:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to -372.5, 87.0, -760.5]
+[02:27:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Jefferalex30> a
+[02:28:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Skeletron suffocated in a wall
+[02:31:05] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[02:31:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2047ms behind, skipping 40 tick(s)
+[02:32:08] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2140ms behind, skipping 42 tick(s)
+[02:32:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3674ms behind, skipping 73 tick(s)
+[02:32:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2445ms behind, skipping 48 tick(s)
+[02:33:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:witch that already exists with UUID 6199f47b-5ad5-4e00-8f32-001d52b1a090
+[02:34:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Jefferalex30: Teleported Jefferalex30 to matilope]
+[02:34:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: matilope withered away
+[02:34:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [matilope: Teleported matilope to Jefferalex30]
+[02:34:23] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2105ms behind, skipping 42 tick(s)
